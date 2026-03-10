@@ -1,0 +1,6 @@
+torch 
+torchvision 
+pandas 
+openai 
+plotly
+load_dotenv
