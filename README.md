@@ -1,4 +1,4 @@
-# AutoLab - LLM-Driven Automated ML Experiments
+# AutoLab - LLM-Driven Automated ML Experiment
 
 An automated machine learning experimentation system that uses an LLM to intelligently design, run, and analyze CNN experiments on MNIST. The system closes the loop between hypothesis generation and empirical validation - the LLM proposes experiments, a bandit strategy prioritizes them, and results feed back into the next planning cycle.
 
